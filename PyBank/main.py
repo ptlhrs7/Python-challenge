@@ -71,5 +71,5 @@ with open(output_file,"w") as file:
     file.write("\n")
     file.write(f"Greatest Decrease in Profits: {total_months[max_decrease_month]} (${(str(max_decrease_value))})")
 
-#referenc: Girhub, StackOverflow 
+#reference: Girhub, StackOverflow 
 #https://github.com/cantugabriela/Python-Challenge
