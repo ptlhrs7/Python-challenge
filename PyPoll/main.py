@@ -96,5 +96,5 @@ with open(output_file,"w") as file:
     file.write(f"----------------------------")
 
 
-#referenc: Girhub, StackOverflow 
+#reference: Girhub, StackOverflow 
 #https://github.com/cantugabriela/Python-Challenge
